@@ -1,1 +1,6 @@
-# scms
+Sports Club Management System
+
+
+
+
+
